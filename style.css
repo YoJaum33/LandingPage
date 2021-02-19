@@ -1,0 +1,21 @@
+.prez{
+    display: flex;
+text-align: center;
+align-items: center;
+justify-content: center;
+
+}
+
+.reseau{
+
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+form{
+display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
